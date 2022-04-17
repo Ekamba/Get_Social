@@ -283,19 +283,19 @@ main .container .left .profile {
   z-index: 2;
 }
 .middle .stories .story:nth-child(1) {
-  background: url("./images/story-1.jpg") no-repeat center center/cover;
+  background: url("./images/Ken Masters.jpg") no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(2) {
-  background: url("./images/story-2.jpg") no-repeat center center/cover;
+  background: url("./images/Cammy-white.jpg") no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(3) {
-  background: url("./images/story-3.jpg") no-repeat center center/cover;
+  background: url("./images/Ruby_Rose.png") no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(4) {
-  background: url("./images/story-4.jpg") no-repeat center center/cover;
+  background: url("./images/Rico_Rose.png") no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(5) {
-  background: url("./images/story-5.jpg") no-repeat center center/cover;
+  background: url("./images/Tyler_Shax.jpg") no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(6) {
   background: url("./images/story-6.jpg") no-repeat center center/cover;
